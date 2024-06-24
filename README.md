@@ -12,7 +12,8 @@
 - 📫 How to reach me :
 <br /> [<img src="https://img.shields.io/badge/Gmail-1DA1F2?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:nknandhakumar64@gmail.com) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/nandhakumar-full-stack-developer)
 
-- ⚡ Fun fact **I am Funny**
+- 😄 Pronouns: **Nandhu**
+- ⚡ My skill: **Java Full Stack Development**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
