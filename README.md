@@ -15,7 +15,7 @@
 - 😄 Pronouns: **Nandhu**
 - ⚡ My skill: **Java Full Stack Development**.
 
-<h3 align="left">I code in</h3>
+<h3 >I code in</h3>
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/sass.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" />
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/tailwindcss.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/> <img width="48" height="48" src="https://img.icons8.com/color/48/typescript.png" alt="typescript"/> <img width="50" height="50" src="https://img.icons8.com/fluency/50/angularjs.png" alt="angularjs"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/google-firebase-console.png"/>
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/spring-logo.png"/>  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/> <img width="48" height="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>
