@@ -3,13 +3,14 @@
 <h3 align="center">A passionate Java FullStack Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working on **Vexa Web App**
+- 🔭 Here's my **Portfolio**
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **DSA**
 
-- 💬 Ask me about **Android , MEARN**
+- 👯 I’m currently looking for a job
 
-- 📫 How to reach me **rishavchanda0@gmail.com**
+- 📫 How to reach me :
+<br /> [<img src="https://img.shields.io/badge/Gmail-1DA1F2?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:nknandhakumar64@gmail.com) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/nandhakumar-full-stack-developer)
 
 - ⚡ Fun fact **I am Funny**
 
