@@ -45,13 +45,16 @@
   <img height="50" src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=white"/>
 </p>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=KNandhakumar&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rishavchanda" /></p>
+<div align="center">
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=KNandhakumar&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="KNandhakumar" /></p>
+  <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=KNandhakumar&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="KNandhakumar" /></p>
+</div>
 
-![KNandhakumar's Stats](https://github-readme-stats.vercel.app/api?username=KNandhakumar&theme=dark&show_icons=true&hide_border=true&count_private=true)
+<div align="center">
+  <p><img align="center" src="https://leetcard.jacoblin.cool/KNandhakumar?ext=contest&theme=dark" alt="KNandhakumar" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KNandhakumar&theme=dark" alt="KNandhakumar" /></p>
+</div>
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/hareeshprogrammer?ext=contest&theme=dark)](https://leetcode.com/hareeshprogrammer)
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KNandhakumar&theme=dark" alt="KNandhakumar" /></p>
-
-[![Nandhakumar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KNandhakumar&bg_color=000000&color=ffffff&line=05f541&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+<div align="center">
+  [![Nandhakumar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KNandhakumar&bg_color=000000&color=ffffff&line=05f541&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+</div>
