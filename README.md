@@ -45,7 +45,7 @@
   <img height="50" src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=white"/>
 </p>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=KNandhakumar&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rishavchanda" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=KNandhakumar&show_icons=true&locale=en&layout=compact&theme=dark" alt="rishavchanda" /></p>
 
 ![KNandhakumar's Stats](https://github-readme-stats.vercel.app/api?username=KNandhakumar&theme=dark&show_icons=true&hide_border=true&count_private=true)
 
