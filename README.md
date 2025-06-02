@@ -49,7 +49,7 @@
 
 ![KNandhakumar's Stats](https://github-readme-stats.vercel.app/api?username=KNandhakumar&theme=dark&show_icons=true&hide_border=true&count_private=true)
 
-[![GeeksForGeeks stats](https://gfgstatscard.vercel.app/<nandha_kumar>)](https://www.geeksforgeeks.org/user/<nandha_kumar>/)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/NandhakumarProgrammer?ext=contest&theme=dark)](https://leetcode.com/u/NandhakumarProgrammer/)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KNandhakumar&theme=dark" alt="KNandhakumar" /></p>
 
